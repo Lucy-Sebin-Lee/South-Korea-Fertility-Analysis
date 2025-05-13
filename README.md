@@ -16,7 +16,7 @@ This project investigates the multifaceted causes and consequences of South Kore
 ├── README.md                      # Project overview and documentation
 ```
 
-## 🧠 Key Insights (Preliminary)  
+## 🧠 Key Insights
 - Fertility rates have sharply declined since the 1980s, reaching a global low.
 - Economic pressures, such as high housing prices and job insecurity, correlate with lower fertility.
 - There are regional variations in fertility rates within South Korea.
