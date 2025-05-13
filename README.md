@@ -1,5 +1,4 @@
 # The Factors and Impacts on South Korea’s Fertility Decline: An Analysis of Social, Economic, and Demographic Impacts
-**SAS Hackathon 2023 Project**
 
 ## 📊 Overview  
 This project investigates the multifaceted causes and consequences of South Korea’s declining fertility rate, with a focus on the interplay between social, economic, and demographic factors. As part of the **SAS Hackathon 2023**, this analysis uses data exploration, visualization, and modeling techniques to uncover trends and insights that may guide policy and public awareness.
@@ -30,8 +29,8 @@ This project investigates the multifaceted causes and consequences of South Kore
 - **Data Sources**: OECD  
 
 ## 📈 Sample Visualizations  
-<img src="https://github.com/user-attachments/assets/e5d42705-fcf4-4a46-bf68-071dd85d1376" width="500" />
-<img src="https://github.com/user-attachments/assets/1a497b65-e6b8-411b-87ec-1440415b35d8" width="500" />
+<img src="https://github.com/user-attachments/assets/e5d42705-fcf4-4a46-bf68-071dd85d1376" width="500" /><br>
+<img src="https://github.com/user-attachments/assets/1a497b65-e6b8-411b-87ec-1440415b35d8" width="500" /><br>
 <img src="https://github.com/user-attachments/assets/e8d10cbe-10bd-4230-930a-bb1c978648fe" width="500" />
 
 ## 📚 References  
