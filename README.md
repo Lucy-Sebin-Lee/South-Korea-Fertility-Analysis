@@ -29,9 +29,9 @@ This project investigates the multifaceted causes and consequences of South Kore
 - **Data Sources**: OECD  
 
 ## 📈 Sample Visualizations  
-<img src="https://github.com/user-attachments/assets/e5d42705-fcf4-4a46-bf68-071dd85d1376" width="500" /><br>
-<img src="https://github.com/user-attachments/assets/1a497b65-e6b8-411b-87ec-1440415b35d8" width="500" /><br>
-<img src="https://github.com/user-attachments/assets/e8d10cbe-10bd-4230-930a-bb1c978648fe" width="500" />
+<img src="https://github.com/user-attachments/assets/e5d42705-fcf4-4a46-bf68-071dd85d1376" width="700" /><br>
+<img src="https://github.com/user-attachments/assets/1a497b65-e6b8-411b-87ec-1440415b35d8" width="700" /><br>
+<img src="https://github.com/user-attachments/assets/e8d10cbe-10bd-4230-930a-bb1c978648fe" width="700" />
 
 ## 📚 References  
 ### References
